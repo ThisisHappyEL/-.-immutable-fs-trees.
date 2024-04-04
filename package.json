@@ -1,0 +1,19 @@
+{
+  "name": "automatedtestscourse",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThisisHappy",
+  "license": "ISC",
+  "devDependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.1",
+    "jest": "^29.7.0"
+  }
+}
